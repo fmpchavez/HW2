@@ -16,7 +16,7 @@ h4{
 }
 
 .jumbotron {
-    background-image: url("./images/about-me-tron.jpg");
+    background-image: url("./images/about-me-tron.JPG");
     background-size: cover;
     background-position: center;
     color: lightgrey;
@@ -43,7 +43,5 @@ footer {
 }
 
 @media only screen (max-width: 768px) {
-    .d-flex, .flex-column, .flex-md-row, .align-items-center, .p-3, .px-md-4, .mb-3, .bg-white, .border-bottom, .shadow-sm {
-        background-color: lightslategrey;
-    }
+    
 }
